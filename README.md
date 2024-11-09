@@ -1,1 +1,1 @@
-# github-private-npm-lib
+# @mktbsh/misc
